@@ -1,4 +1,4 @@
-# Homework 3
+# Python Challenge
 
 Two Python problems are presented here.
 
