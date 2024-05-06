@@ -13,4 +13,4 @@ In this challenge, you'll analyze financial records to calculate various metrics
 In this challenge, you'll modernize a vote-counting process by analyzing poll data to calculate various metrics such as total votes cast, list of candidates who received votes, percentage of votes each candidate won, total number of votes each candidate won, and the winner of the election based on popular vote.
 
 
-Both PyBank and PyPoll have text files that summarize their results!
+**Both PyBank and PyPoll have text files that summarize their results!**
