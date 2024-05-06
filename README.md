@@ -1,4 +1,4 @@
-# Python Challenge
+# Python Practice
 
 # Introduction:
 This project consists of two Python challenges, PyBank and PyPoll, aimed at analyzing financial records and election data respectively. These tasks simulate real-world situations where Python scripting skills are required to process and analyze datasets efficiently.
