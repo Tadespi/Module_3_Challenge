@@ -1,4 +1,4 @@
-# Python Challenge
+# Python Practice
 
 Two Python problems are presented here.
 
